@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties version="1">
+  <includeClasses>
+    <classEntry path="com.hurlant.crypto.Crypto"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSConfig"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSConnectionState"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSEngine"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSError"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSEvent"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSSecurityParameters"/>
+    <classEntry path="com.hurlant.crypto.tls.TLSSocket"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
